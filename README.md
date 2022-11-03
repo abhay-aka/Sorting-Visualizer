@@ -52,4 +52,4 @@ Change the speed
 
 
 Regenerate the array!
-![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/67103822/199661578-cacd505a-d930-4aad-92a8-ad19231ba52f.png))
+![alt text](https://github.com/abhay-aka/Sorting-Visualizer/blob/main/screenshotv1.png)
